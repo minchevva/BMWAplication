@@ -1,0 +1,15 @@
+C:\Users\i\source\repos\BMWApplication\Repository\bin\Debug\Repository.exe.config
+C:\Users\i\source\repos\BMWApplication\Repository\bin\Debug\Repository.exe
+C:\Users\i\source\repos\BMWApplication\Repository\bin\Debug\Repository.pdb
+C:\Users\i\source\repos\BMWApplication\Repository\bin\Debug\Data.exe
+C:\Users\i\source\repos\BMWApplication\Repository\bin\Debug\EntityFramework.dll
+C:\Users\i\source\repos\BMWApplication\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\i\source\repos\BMWApplication\Repository\bin\Debug\Data.pdb
+C:\Users\i\source\repos\BMWApplication\Repository\bin\Debug\Data.exe.config
+C:\Users\i\source\repos\BMWApplication\Repository\bin\Debug\EntityFramework.xml
+C:\Users\i\source\repos\BMWApplication\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\i\source\repos\BMWApplication\Repository\obj\Debug\Repository.csproj.AssemblyReference.cache
+C:\Users\i\source\repos\BMWApplication\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\i\source\repos\BMWApplication\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\i\source\repos\BMWApplication\Repository\obj\Debug\Repository.exe
+C:\Users\i\source\repos\BMWApplication\Repository\obj\Debug\Repository.pdb
